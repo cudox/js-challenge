@@ -2,9 +2,9 @@
 
 Solución al reto:
 
-Nombre:
-Usuario Platzi:
-Correo Electronico:
+Nombre: Luis Fernando Niño Gonzalez
+Usuario Platzi: Cudox
+Correo Electronico: cudoxnba@gmail.com
 
 ## Reto:
 
